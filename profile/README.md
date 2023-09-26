@@ -2,6 +2,8 @@
 
 <h2>Tools</h2>
 <h3>Language</h3>
+Dart<br />
+<h3>Framework</h3>
 Flutter<br />
 <h3>Database</h3>
 Firebase<br />
