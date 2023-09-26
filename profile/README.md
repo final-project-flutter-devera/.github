@@ -5,7 +5,7 @@
 Flutter<br />
 <h3>Database</h3>
 Firebase<br />
-SQL<br />
+SQLite<br />
 
 <h2>Team member:</h2>
 @tumble29 Phan Thành Phúc<br />
